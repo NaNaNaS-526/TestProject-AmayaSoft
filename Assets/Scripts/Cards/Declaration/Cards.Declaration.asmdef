@@ -1,0 +1,4 @@
+﻿{
+  "name": "Card.Declaration",
+  "references":[ "Card.Data" ]
+}

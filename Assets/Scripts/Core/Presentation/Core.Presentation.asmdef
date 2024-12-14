@@ -1,0 +1,14 @@
+﻿{
+  "name": "Core.Presentation",
+  "references": [
+    "Core.Declaration",
+    "Level.Data",
+    "Level.Declaration",
+    "Utils",
+    "Card.Implementation",
+    "Card.Declaration",
+    "Card.Data",
+    "Card.Presentation",
+    "VContainer"
+  ]
+}
