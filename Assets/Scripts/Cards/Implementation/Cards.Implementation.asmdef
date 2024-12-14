@@ -1,0 +1,4 @@
+﻿{
+  "name": "Card.Implementation",
+  "references":[ "Card.Declaration", "Card.Data", "Level.Declaration", "Core.Declaration", "Utils", "Level.Data", "Card.Presentation" ]
+}

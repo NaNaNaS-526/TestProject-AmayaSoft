@@ -1,0 +1,4 @@
+﻿{
+  "name": "Level.Implementation",
+  "references":[ "Level.Data", "Level.Declaration", "UI" ]
+}

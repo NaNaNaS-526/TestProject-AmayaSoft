@@ -1,0 +1,15 @@
+﻿{
+  "name": "Core.Implementation",
+  "references": [
+    "Level.Data",
+    "Card.Data",
+    "UI",
+    "Utils",
+    "Level.Declaration",
+    "Level.Implementation",
+    "Card.Implementation",
+    "Card.Declaration",
+    "Core.Declaration",
+    "VContainer"
+  ]
+}

@@ -1,0 +1,4 @@
+﻿{
+  "name": "Level.Declaration",
+  "references":[ "Level.Data" ]
+}

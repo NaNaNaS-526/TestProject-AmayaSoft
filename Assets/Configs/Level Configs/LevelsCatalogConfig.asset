@@ -13,5 +13,6 @@ MonoBehaviour:
   m_Name: LevelsCatalogConfig
   m_EditorClassIdentifier: 
   <LevelConfigs>k__BackingField:
-  - {fileID: 11400000, guid: 15670fdef64c421458c344806d025afe, type: 2}
   - {fileID: 11400000, guid: c0bb6d94c0ad11241b78911aaa8b6489, type: 2}
+  - {fileID: 11400000, guid: 15670fdef64c421458c344806d025afe, type: 2}
+  - {fileID: 11400000, guid: 9509c606a50dfcd4fa0bcb05d4a7a77f, type: 2}
